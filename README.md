@@ -1,7 +1,8 @@
-# 🛍️ RA DO GRUPO:
+# Integrantes do Grupo:
+Alexandre José Gomes - 1986088
+João victor Colussi - 2003753
 
-
-# 🛍️ Gold Shop
+## 🛍️ Gold Shop
 
 Gold Shop é uma vitrine virtual de joias desenvolvida em **React + TypeScript + Vite**, com estilização utilizando **Tailwind CSS**.  
 O projeto simula uma loja online com páginas de coleção, detalhes de produtos e botão para adicionar ao carrinho.
