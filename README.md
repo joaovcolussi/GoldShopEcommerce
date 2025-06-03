@@ -1,6 +1,6 @@
 # Integrantes do Grupo:
-Alexandre José Gomes - 1986088
-João victor Colussi - 2003753
+-Alexandre José Gomes - 1986088
+-João victor Colussi - 2003753
 
 ## 🛍️ Gold Shop
 
