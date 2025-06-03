@@ -55,7 +55,7 @@ Acesse em: http://localhost:5173
 
 ## 📝 Licença
 
-MIT — Sinta-se à vontade para usar e modificar.
+MIT 
 
 
 ## 📝 Imagens do projeto
