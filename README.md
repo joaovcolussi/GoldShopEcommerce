@@ -64,7 +64,7 @@ MIT
 ### Home
 ![Home](./assets/Home.png)
 
-### Meio
+### Mid
 ![Meio](./assets/Meio.png)
 
 ### Footer
