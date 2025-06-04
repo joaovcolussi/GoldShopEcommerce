@@ -59,12 +59,12 @@ Acesse em: http://localhost:5173
 MIT 
 
 
-## 📝 Imagens do projeto
+## Imagens do projeto
 
-### Home
+### Header
 ![Home](./assets/Home.png)
 
-### Mid
+### Body
 ![Meio](./assets/Meio.png)
 
 ### Footer
