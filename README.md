@@ -6,6 +6,7 @@
 
 Gold Shop é uma vitrine virtual de joias desenvolvida em **React + TypeScript + Vite**, com estilização utilizando **Tailwind CSS**.  
 O projeto simula uma loja online com páginas de coleção, detalhes de produtos e botão para adicionar ao carrinho.
+https://www.youtube.com/watch?v=yqZH2ispJuk
 
 ## 🚀 Tecnologias utilizadas
 
